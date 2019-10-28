@@ -74,7 +74,8 @@ When TensorFlow 2.0 and/or PyTorch has been installed, 🤗 Transformers can be 
 ```bash
 pip install transformers
 ```
-
+Prequisite:
+conda install -c pytorch pytorch 
 ### From source
 
 Here also, you first need to install one of, or both, TensorFlow 2.0 and PyTorch.
